@@ -1,0 +1,9 @@
+:local .container{
+  display: flex;
+  justify-content: center;
+  margin: 10px 0;
+}
+
+:local .subtittle{
+  margin: 0 10px;
+}
